@@ -1,0 +1,40 @@
+{
+    "mySongs": [
+        {
+            "title": "You Outta Know",
+            "artist": "Alanis Morrisette",
+            "genre": "alternative_rock",
+            "id": 1
+        },
+        {
+            "title": "Doo Wop(That Thing)",
+            "artist": "Lauryn Hill",
+            "genre": "hip_hop",
+            "id": 2
+        },
+        {
+            "title": "Linger",
+            "artist": "The Cranberries",
+            "genre": "alternative_rock",
+            "id": 3
+        },
+        {
+            "title": "Sure Shot",
+            "artist": "Beastie Boys",
+            "genre": "hip_hop",
+            "id": 4
+        },
+        {
+            "title": "Closing Time",
+            "artist": "Semisonic",
+            "genre": "alternative_rock",
+            "id": 5
+        },
+        {
+            "title": "Are You That Somebody",
+            "artist": "Aaliyah",
+            "genre": "soul",
+            "id": 6
+        }
+    ]
+}
